@@ -72,7 +72,4 @@
 | 🗃️ [**Data Modeling**](https://github.com/YOUR_USERNAME/project-3) | Dimensional modeling & star schema design | PostgreSQL · dbt |
 -->
 <div align="center">
-
-𝙏𝙝𝙞𝙣𝙠 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, 𝙣𝙤𝙩 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨
-
 </div>
