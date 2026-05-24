@@ -3,7 +3,7 @@
 
 # Hi, I'm Duy Mai 👋
 
-**Data Analyst · Data Engineer**
+**Data Analyst · Data Engineer · Business Analyst**
 
 *Transforming raw data into actionable insights — one pipeline at a time.*
 
