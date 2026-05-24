@@ -14,9 +14,9 @@
 
 ## About Me
 
-- **Role:** Data Analyst · Data Engineer
+- **Role:** Data Analyst · Data Engineer · Business Analyst
 - **Focus:** ETL Pipelines · Data Modeling · Business Intelligence
-- **Learning:** dbt · Apache Spark · MLOps
+- **Learning:** Apache Kafka · Apache Spark · Apache Airflow
 - **Based in:** Ho Chi Minh City, Vietnam 🇻🇳
 
 ## Tech Stack
