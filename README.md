@@ -16,7 +16,6 @@
 
 - **Role:** Data Analyst · Data Engineer · Business Analyst
 - **Focus:** ETL Pipelines · Data Modeling · Business Intelligence
-- **Learning:** Apache Kafka · Apache Spark · Apache Airflow
 - **Based in:** Ho Chi Minh City, Vietnam 🇻🇳
 
 ## Tech Stack
